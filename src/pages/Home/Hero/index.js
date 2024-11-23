@@ -3,6 +3,7 @@ import blog from "../../../svg/blog.svg"
 const Hero = () => {
     return(
         <>
+        
     <section className="container">
         <div className="row">
             <div className="grid-6">
